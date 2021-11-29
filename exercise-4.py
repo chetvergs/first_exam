@@ -22,4 +22,3 @@ def text_message(message):
 	bot.send_message(message.chat.id, count)
 
 bot.polling()
-
